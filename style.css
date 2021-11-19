@@ -1,0 +1,16 @@
+.sky{
+    background-color: rebeccapurple;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.point{
+    background-color: limegreen;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
