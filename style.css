@@ -1,6 +1,40 @@
+
 .rick_head{
     align-self: center;
     width: 100px;
     height: 100px;
     background-color: antiquewhite;
+}
+.sky{
+    background-color: #110037;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.point{
+    background-color: #69A43A;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.floor{
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3B0944;
+    border-color: #500F5F;
+    border-width: 2px;
+    border-style: solid;
+    position: relative;
+}
+
+.line{
+    background-color: #500F5F;
+    height: 2px;
+    width: 1000px;
 }
