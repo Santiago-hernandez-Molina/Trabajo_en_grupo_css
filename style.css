@@ -1,9 +1,11 @@
 
 .rick_head{
     align-self: center;
-    width: 100px;
-    height: 100px;
-    background-color: antiquewhite;
+    width: 150px;
+    height: 150px;
+    background-color: darksalmon;
+    border-radius: 30px;
+    justify-content: center;
 }
 .sky{
     background-color: #110037;
